@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "buildCommand": "cd Evangadi-food-menu && npm ci && npm run build",
+  "installCommand": "cd Evangadi-food-menu && npm ci",
+  "outputDirectory": "Evangadi-food-menu/dist",
+  "framework": "vite"
+}
